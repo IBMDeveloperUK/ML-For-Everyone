@@ -11,4 +11,3 @@ The show is presented by [Matt Hamilton](https://twitter.com/hammertoe) and focu
 - 2020/05/19 [Intro to IBM Cloud Functions](https://github.com/IBMDeveloperUK/ML-For-Everyone/tree/master/20200519-Intro-to-IBM-Cloud-Functions)
 - 2020/05/12 [Aligning Audio Files](https://github.com/IBMDeveloperUK/ML-For-Everyone/tree/master/20200512-Aligning-Audio-Files)
 - 2020/05/05 [Finding Similar Images with an Autoencoder](https://github.com/IBMDeveloperUK/ML-For-Everyone/tree/master/20200505-Finding-Similar-Images-With-an-Autoencoder)
-encoder/
