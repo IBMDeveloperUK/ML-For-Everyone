@@ -9,3 +9,4 @@ The show is presented by [Matt Hamilton](https://twitter.com/hammertoe) and focu
 ## Past shows
 - 2020/05/26 [Using Docker Images with IBM Cloud Functions](https://github.com/IBMDeveloperUK/ML-For-Everyone/tree/master/20200526-IBM-Cloud-Functions-and-Docker-Images)
 - 2020/05/19 [Intro to IBM Cloud Functions](https://github.com/IBMDeveloperUK/ML-For-Everyone/tree/master/20200519-Intro-to-IBM-Cloud-Functions)
+- 2020/05/12 [Aligning Audio Files](https://github.com/IBMDeveloperUK/ML-For-Everyone/tree/master/20200512-Aligning-Audio-Files)
