@@ -6,7 +6,7 @@ Recording of this live Twitch stream:
 
 Writeup of this session: 
 
-- https://coil.com/
+- https://coil.com/p/hammertoe/IBM-Cloud-Functions-and-Docker-Images/10AlqHwgV
 
 This session uses the librosa_ml docker	image at:
 
