@@ -12,4 +12,5 @@ The show is presented by [Matt Hamilton](https://twitter.com/hammertoe) and focu
 - 2020/05/12 [Aligning Audio Files](https://github.com/IBMDeveloperUK/ML-For-Everyone/tree/master/20200512-Aligning-Audio-Files)
 - 2020/05/05 [Finding Similar Images with an Autoencoder](https://github.com/IBMDeveloperUK/ML-For-Everyone/tree/master/20200505-Finding-Similar-Images-With-an-Autoencoder)
 - 2020/04/30 [Creating an Autoencoder in Python with Keras](https://github.com/IBMDeveloperUK/ML-For-Everyone/tree/master/202004030-Creating-an-Autoencoder-with-Keras)
+- 2020/04/15 [Scraping web content from graphql with Python](https://github.com/IBMDeveloperUK/ML-For-Everyone/tree/master/20200415-Scraping-Web-Content-with-GraphQL-and-Python)
 - 2020/04/07 [Intro to Watson Data Studio and Investigating Air Quaility Data](https://github.com/IBMDeveloperUK/ML-For-Everyone/tree/master/20200407-Intro-to-Watson-Data-Studio-and-Investigating-Air-Quality-Data)
