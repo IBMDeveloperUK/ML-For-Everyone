@@ -1,0 +1,2 @@
+xpring[py]
+requests
