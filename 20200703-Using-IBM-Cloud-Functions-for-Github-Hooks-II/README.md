@@ -7,5 +7,5 @@ Recording of this live Twitch stream:
 
 Writeup of this session: 
 
-- 
+- https://dev.to/hammertoe/using-ibm-cloud-functions-for-github-hooks-3md7
 
